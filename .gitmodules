@@ -9,11 +9,11 @@
 [submodule "third-party/faasm-clapack"]
     path = third-party/faasm-clapack
     url = https://github.com/faasm/faasm-clapack
-	branch = faasm
+    branch = faasm
 [submodule "third-party/faabric"]
-	path = third-party/faabric
-	url = https://github.com/lyuxiaosu/faasm-faabric
+    path = third-party/faabric
+    url = https://github.com/lyuxiaosu/faasm-faabric
 [submodule "third-party/zlib"]
-	path = third-party/zlib
-	url = https://github.com/faasm/zlib.git
-	branch = faasm
+    path = third-party/zlib
+    url = https://github.com/faasm/zlib.git
+    branch = faasm
