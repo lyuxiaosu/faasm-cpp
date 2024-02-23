@@ -11,8 +11,8 @@
     url = https://github.com/faasm/faasm-clapack
 	branch = faasm
 [submodule "third-party/faabric"]
-    path = third-party/faabric
-    url = https://github.com/lyuxiaosu/faasm-faabric 
+	path = third-party/faabric
+	url = https://github.com/lyuxiaosu/faasm-faabric
 [submodule "third-party/zlib"]
 	path = third-party/zlib
 	url = https://github.com/faasm/zlib.git
